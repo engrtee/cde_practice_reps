@@ -1,0 +1,16 @@
+[2026-09-13 20:43:09] File created successfully and has data.
+[2026-09-13 20:43:09] Column count check passed.
+[2026-09-13 20:43:10] Blank line check passed.
+Quality checks failed. testfile.csv moved to quarantine folder.
+[2026-09-13 20:46:03] File created successfully and has data.
+[2026-09-13 20:46:03] Column count check passed.
+[2026-09-13 20:46:03] Blank line check passed.
+Quality checks failed. testfile.csv moved to quarantine folder.
+[2026-09-13 20:46:29] File created successfully and has data.
+[2026-09-13 20:46:29] Column count check passed.
+[2026-09-13 20:46:29] Blank line check passed.
+All quality checks passed. Moving testfile.csv to Ready folder.
+[2026-09-13 20:50:06] File created successfully and has data.
+[2026-09-13 20:50:06] Column count check passed.
+[2026-09-13 20:50:06] Blank line check passed.
+All quality checks passed. Moving testfile.csv to Ready folder.
